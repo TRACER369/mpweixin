@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "iconfont";
+  src: url('data:font/woff2;charset=utf-8;base64,BASE64STRING') format('woff2');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-sound:before {
+  content: "\e64f";
+}
+
+.icon-medal:before {
+  content: "\e6c2";
+}
+
+.icon-qa:before {
+  content: "\e63a";
+}
+
+.icon-reward:before {
+  content: "\e638";
+}
+
+.icon-more:before {
+  content: "\e62d";
+}
+
+.icon-project:before {
+  content: "\e651";
+}
+
+.icon-competition:before {
+  content: "\e612";
+}
+
+.icon-academic:before {
+  content: "\e65c";
+}
+
+.icon-education:before {
+  content: "\e626";
+} 

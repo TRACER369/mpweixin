@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">{{title}}</text></view><button type="primary" data-event-opts="{{[['tap',[['goToTeacher',['$event']]]]]}}" bindtap="__e">进入青英大学老师页面</button></view>
